@@ -1,0 +1,15 @@
+C:\Users\elchi\Desktop\Invoice\Invoice\bin\Debug\net6.0\Invoice.exe
+C:\Users\elchi\Desktop\Invoice\Invoice\bin\Debug\net6.0\Invoice.deps.json
+C:\Users\elchi\Desktop\Invoice\Invoice\bin\Debug\net6.0\Invoice.runtimeconfig.json
+C:\Users\elchi\Desktop\Invoice\Invoice\bin\Debug\net6.0\Invoice.dll
+C:\Users\elchi\Desktop\Invoice\Invoice\bin\Debug\net6.0\Invoice.pdb
+C:\Users\elchi\Desktop\Invoice\Invoice\obj\Debug\net6.0\Invoice.csproj.AssemblyReference.cache
+C:\Users\elchi\Desktop\Invoice\Invoice\obj\Debug\net6.0\Invoice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elchi\Desktop\Invoice\Invoice\obj\Debug\net6.0\Invoice.AssemblyInfoInputs.cache
+C:\Users\elchi\Desktop\Invoice\Invoice\obj\Debug\net6.0\Invoice.AssemblyInfo.cs
+C:\Users\elchi\Desktop\Invoice\Invoice\obj\Debug\net6.0\Invoice.csproj.CoreCompileInputs.cache
+C:\Users\elchi\Desktop\Invoice\Invoice\obj\Debug\net6.0\Invoice.dll
+C:\Users\elchi\Desktop\Invoice\Invoice\obj\Debug\net6.0\refint\Invoice.dll
+C:\Users\elchi\Desktop\Invoice\Invoice\obj\Debug\net6.0\Invoice.pdb
+C:\Users\elchi\Desktop\Invoice\Invoice\obj\Debug\net6.0\Invoice.genruntimeconfig.cache
+C:\Users\elchi\Desktop\Invoice\Invoice\obj\Debug\net6.0\ref\Invoice.dll
